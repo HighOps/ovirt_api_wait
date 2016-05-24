@@ -1,0 +1,8 @@
+- name: wait for api
+  ovirt_api_wait: username="{{ovirt_api_wait_engine_user}}" 
+                  password="{{ovirt_api_wait_engine_password}}"
+                  url="{{ovirt_api_wait_engine_fqdn}}"
+                  
+
+
+

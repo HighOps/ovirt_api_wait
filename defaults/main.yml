@@ -1,0 +1,5 @@
+ovirt_api_wait_engine_user: admin@internal
+ovirt_api_wait_engine_password: somepassword
+ovirt_api_wait_engine_fqdn: engine.highops-office.com
+ovirt_api_wait_engine_max_tries: 300
+ovirt_api_wait_engine_time_out: 5
