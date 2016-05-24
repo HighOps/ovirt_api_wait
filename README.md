@@ -27,8 +27,8 @@ Length of time to wait between retries.
 ## Example Playbook
 ```yaml
 - hosts: ovirt_host
-```
   roles:
     - ovirt_api_wait
+```
 
 See defaults for values.
