@@ -17,10 +17,10 @@ Ovrt engine password.
 * ovirt_api_wait_engine_fqdn:: 
 Ovirt engine password.
 
-* max_tries:
+* ovirt_api_max_tries:
 Max number of retries in seconds.
 
-* time_out:
+* ovirt_api_time_out:
 Length of time to wait between retries.
 
 
